@@ -19,3 +19,5 @@
  # http://localhost:5000/users/login
   ![Screenshot from 2022-07-11 13-38-27](https://user-images.githubusercontent.com/88592710/178230622-e2567b04-5d7a-48a5-9f68-9a5649c9aa4a.png)
 
+ # http://localhost:5000/dashboard
+  ![Screenshot from 2022-07-11 13-53-47](https://user-images.githubusercontent.com/88592710/178230783-fbd0c521-76cb-47db-a12a-2f8f6b57322e.png)
